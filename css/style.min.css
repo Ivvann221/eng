@@ -11995,22 +11995,7 @@ select {
     overflow: hidden
 }
 
-.header__content .logo {
-    font-size: 50px;
-    font-weight: 500;
-    font-family: Montserrat, sans-serif;
-    color: #fff
-}
 
-.header__content .logo a {
-    text-decoration: none;
-    color: #fff
-}
-
-.header__content .logo span {
-    color: #a79e4d;
-    font-weight: 700
-}
 
 @media screen and (max-width:768px) {
     .header__content .menu {
