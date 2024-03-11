@@ -12618,7 +12618,7 @@ select {
 .works__element {
     position: relative;
     flex: 1 0 32%;
-    background-color: rgba(142, 138, 135, .299);
+    background-color: rgba(142, 138, 135, .299) !important;
     border-radius: 10px;
     padding: 10px;
     height: 400px;
@@ -12779,7 +12779,7 @@ select {
     background-size: cover;
     background-repeat: no-repeat;
     right: 20px;
-    bottom: 340px;
+    bottom: 290px;
     border-radius: 22px;
     cursor: pointer;
     max-width: 40px;
@@ -12794,7 +12794,7 @@ select {
     background-size: cover;
     background-repeat: no-repeat;
     right: 20px;
-    bottom: 400px;
+    bottom: 340px;
     border-radius: 22px;
     cursor: pointer;
     max-width: 40px;
